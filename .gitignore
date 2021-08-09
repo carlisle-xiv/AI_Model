@@ -127,3 +127,26 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Mac things
+.DS_Store
+
+#VS Code stuff
+.vscode/
+*static*
+
+# Intellij Stuff
+.idea
+
+# All hidden files
+.*
+
+TODO.yaml
+
+
+# Exclude Generated pdfs
+pdf*
+*.tex
+
+node_modules/
+
